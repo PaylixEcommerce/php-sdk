@@ -1,0 +1,17 @@
+{
+    "name": "paylixhq/php-sdk",
+    "description": "Paylix PHP Sdk",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Paylix\\PhpSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Paylix",
+            "email": "admin@paylix.gg"
+        }
+    ],
+    "require": {}
+}
